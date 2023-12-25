@@ -9,14 +9,14 @@
     
 
     <input type="text" class="text" name="Enter username">
-     <span>username</span>
+     <span> Enter username</span>
 
     <br>
     
     <br>
 
     <input type="password" class="text" name="Enter password">
-    <span>password</span>
+    <span>Enter password</span>
     <br>
 
     <input type="checkbox" id="checkbox-1-1" class="custom-checkbox" />
