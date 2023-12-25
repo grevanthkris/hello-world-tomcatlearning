@@ -8,14 +8,14 @@
    
     
 
-    <input type="text" class="text" name="username">
+    <input type="text" class="text" name="Enter username">
      <span>username</span>
 
     <br>
     
     <br>
 
-    <input type="password" class="text" name="password">
+    <input type="password" class="text" name="Enter password">
     <span>password</span>
     <br>
 
